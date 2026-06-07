@@ -1,0 +1,59 @@
+NAME: eil51
+COMMENT: solucao exata obtida pelo professor utilizando um solver branch-and-cut
+COMMENT: 0.609s
+TYPE: TOUR
+DIMENSION: 51
+TOTAL_WEIGHT: 426
+TOUR_SECTION
+21
+29
+02
+20
+35
+36
+03
+28
+31
+26
+08
+22
+01
+32
+11
+38
+05
+37
+17
+04
+18
+47
+12
+46
+51
+27
+06
+48
+23
+07
+43
+24
+14
+25
+13
+41
+19
+40
+42
+44
+15
+45
+33
+39
+10
+49
+09
+30
+34
+50
+16
+EOF
